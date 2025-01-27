@@ -17,8 +17,7 @@
 
 ### programming_Languages_Known
 
-[![Programming Language Icons](https://skillicons.dev/icons?i=py,c,js,ts)](https://skillicons.dev)
+> [!WARNING]
+> Guaranteed to know, not know how to use.
 
-### programming_Languages_To_Learn
-
-[![Programming Language Icons](https://skillicons.dev/icons?i=java,go,rust)](https://skillicons.dev)
+[![Programming Language Icons](https://skillicons.dev/icons?i=js,ts,py,c,java,rust)](https://skillicons.dev)
